@@ -1,2 +1,2 @@
-# ayeyarwaddy
+# ayeyarwady_bagan
 information website
